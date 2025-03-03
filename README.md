@@ -1,135 +1,92 @@
-<div align="center">
-    <h1>我的电视</h1>
-<div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yaoxieyoulei/mytv-android)
-![GitHub Repo stars](https://img.shields.io/github/stars/yaoxieyoulei/mytv-android)
-![GitHub all releases](https://img.shields.io/github/downloads/yaoxieyoulei/mytv-android/total)
+<p align="center">
+  <img src="https://iptvm3u-1318448394.cos.ap-chengdu.myqcloud.com/images/logo.jpg" width="250" alt="慕映直播LOGO">
+  <h2 align='center'> 🚀 慕映直播 - 极速电视直播方案</h2> </p>
+  <p align='center'><a href='https://github.com/zy2270561173/MuyingLive/releases/tag/15.2.3'><img src='https://img.shields.io/github/v/release/zy2270561173/MuyingLive'></a><a href='./LICENSE'><img src='https://img.shields.io/badge/License-MIT-green.svg'></a><a href="https://github.com/zy2270561173/MuyingLive/releases/tag/15.2.3"><img src="https://img.shields.io/github/downloads/zy2270561173/MuyingLive/total" />
+ </p>
+<br>
+    
+---
 
-</div>
-    <p>使用Android原生开发的电视直播软件</p>
+<h2>📙语言</h2>
+<h3><a href='./README.md'>中文</a>/<a href='./README_EN.md'>English</a></h3>
 
-<img src="./screenshots/Screenshot_panel.png" width="96%"/>
-<br/>
-<img src="./screenshots/Screenshot_temp_panel.png" width="48%"/>
-<img src="./screenshots/Screenshot_settings.png" width="48%"/>
-</div>
+---
 
-## 使用
+<h2>📺 项目简介</h2>
+🔥 **慕映直播** 是一款基于 **Android** 的智能电视直播应用，提供 **极速、稳定** 的电视直播体验。  
 
-### 操作方式
+### 🌟 亮点功能：
+- **40+** 频道分类 🗂️  
+- **444+** 稳定直播源 📡  
+- **4K HDR** 超高清画质 🎞️(最高支持)  
+- **智能 CDN 切换**，多节点极速播放 🚀  
+- **每日自动更新**，告别失效源 🔄  
 
-> 遥控器操作方式与主流电视直播软件类似；
+🎉 下载地址1：[📥 下载最新版本(GitHub源)](https://github.com/zy2270561173/MuyingLive/releases/tag/15.2.3)
+<br>🔑 下载地址2：[📥 下载最新版本(官网cdn已高速)](https://web-pro2.123952.com/download-v2/?params=aHR0cHM6Ly9kb3dubG9hZC1jZG4uY2pqZDE5LmNvbS8xMjMtNTc4L2JjZWQ1MzE1LzE4MTYwNzkzODEtMC9iY2VkNTMxNWI4ZjRjMTBlNGJlYWNkN2QzNzUyZDI0Mi9jLW03ND92PTUmdD0xNzQxMDkyNTA2JnM9MTc0MTA5MjUwNjFiNWUyNzZmZmE4Y2RlMmQxMDg2ZWRkN2Q4NmM3YjY5JnI9Q0JGQlM1JmJ6Yz0yJmJ6cz0zMTM4MzEzNjMwMzczOTMzMzgzMTNhMzkzODM5MzMzMTMyMzUzNTNhMzEzODMzMzEzNjM4MzUzNDNhMzAmZmlsZW5hbWU9JUU2JTg1JTk1JUU2JTk4JUEwJUU3JTlCJUI0JUU2JTkyJUFEXzE1LjIuMy5hcGsmeC1tZi1iaXotY2lkPWNkYTllMTQ0LWQ1MGEtNDlhNC1hODE3LTU4MWQ2NmE2N2YyNi01ODQwMDAmY2FjaGVfdHlwZT0x&is_s3=0) | [🌐 官网](http://lc.pcwx.site)
 
-- 频道切换：使用上下方向键，或者数字键切换频道；屏幕上下滑动；
-- 频道选择：OK键；单击屏幕；
-- 设置页面：按下菜单、帮助键，长按OK键；双击、长按屏幕；
 
-### 触摸键位对应
+## 🎥 播放体验
+- ⚡ **毫秒级启动速度**（<500ms）  
+- 🎞 **最高支持 1080P / 4K / HDR** 高清流畅播放  
+- 🔄 **多源切换**，CDN 智能分配，不卡顿、不掉线  
+- 🎛 **自定义播放配置**，提供灵活调整选项  
 
-- 方向键：屏幕上下左右滑动
-- OK键：点击屏幕
-- 长按OK键：长按屏幕
-- 菜单、帮助键：双击屏幕
+---
 
-### 自定义设置
+### 📲 适用设备
+- 📺 **智能电视**（Android TV）  
+- 📡 **机顶盒 / 智能电视 / TV_Box / MY_TV**  
+- 📱 **Android 平板 & 手机**  
+- 🖥 **大屏显示设备**  
 
-- 访问以下网址：`http://<设备IP>:10481`
-- 打开应用设置界面，移到最后一项
-- 支持自定义直播源、自定义节目单、缓存时间等等
-- 须知：网页中引用了`jsdelivr`的cdn，请确保能够正常访问
 
-### 自定义直播源
+## 🔄 自动更新
+✨ **每日自动更新直播源**，确保播放稳定流畅，省心省力！  
+💾 **云端维护**，开箱即用，无需手动操作！  
 
-- 设置入口：自定义设置网址
-- 格式支持：m3u格式、tvbox格式
 
-### 多直播源
+## 📥 下载与安装
 
-- 设置入口：打开应用设置界面，选中`自定义直播源`项，点击后将弹出历史直播源列表
-- 历史直播源列表：短按可切换当前直播源（需重启），长按将清除历史记录；该功能类似于`多仓`，主要用于简化直播源切换流程
-- 须知：
-    1. 当直播源数据获取成功时，会将该直播源保存到历史直播源列表中
-    2. 当直播源数据获取失败时，会将该直播源移出历史直播源列表
+### 1️⃣ 下载最新版  
+📥 [点击这里下载(GitHub源)](https://github.com/zy2270561173/MuyingLive/releases/tag/15.2.3)  
 
-### 多线路
+---
 
-- 功能描述：同一频道拥有多个播放地址，相关标识位于频道名称后面
-- 切换线路：左右方向键；屏幕左右滑动
-- 自动切换：当当前线路播放失败后，将自动播放下一个线路，直至最后
-- 须知：
-    1. 当某一线路播放成功后，会将该线路的`域名`保存到`可播放域名列表`中
-    2. 当某一线路播放失败后，会将该线路的`域名`移出`可播放域名列表`
-    3. 当播放某一频道时，将优先选择匹配`可播放域名列表`的线路
+📥 [点击这里现在(官网cdn已高速)](https://web-pro2.123952.com/download-v2/?params=aHR0cHM6Ly9kb3dubG9hZC1jZG4uY2pqZDE5LmNvbS8xMjMtNTc4L2JjZWQ1MzE1LzE4MTYwNzkzODEtMC9iY2VkNTMxNWI4ZjRjMTBlNGJlYWNkN2QzNzUyZDI0Mi9jLW03ND92PTUmdD0xNzQxMDkyNTA2JnM9MTc0MTA5MjUwNjFiNWUyNzZmZmE4Y2RlMmQxMDg2ZWRkN2Q4NmM3YjY5JnI9Q0JGQlM1JmJ6Yz0yJmJ6cz0zMTM4MzEzNjMwMzczOTMzMzgzMTNhMzkzODM5MzMzMTMyMzUzNTNhMzEzODMzMzEzNjM4MzUzNDNhMzAmZmlsZW5hbWU9JUU2JTg1JTk1JUU2JTk4JUEwJUU3JTlCJUI0JUU2JTkyJUFEXzE1LjIuMy5hcGsmeC1tZi1iaXotY2lkPWNkYTllMTQ0LWQ1MGEtNDlhNC1hODE3LTU4MWQ2NmE2N2YyNi01ODQwMDAmY2FjaGVfdHlwZT0x&is_s3=0)
+### 2️⃣ 安装步骤  
+1. 打开设备的 **“设置” > “安全”**，启用 **“未知来源安装”**。  
+2. 下载 APK 文件，点击安装。  
+3. 安装完成后，即可启动应用！🚀  
 
-### 自定义节目单
 
-- 设置入口：自定义设置网址
-- 格式支持：.xml、.xml.gz格式
+## 🔗 感谢
+🛠 **提供开源框架**：
 
-### 多节目单
+感谢sakana164提供的软件框架📲- [📺 sakana164/mytv-android](https://github.com/sakana164/mytv-android)  
+感谢lizongying提供的开源软件💾- [📺 lizongying/my-tv](https://github.com/lizongying/my-tv)  
+感谢Guovin提供的直播源🎞- [📺 Guovin/iptv-api](https://github.com/Guovin/iptv-api)  
+感谢iptv-org提供的直播源🎥- [📺 iptv-org/iptv](https://github.com/iptv-org/iptv)  
+感谢wang987742提供的直播台标🏷- [📺 wang987742/fanmingming](https://github.com/wang987742/fanmingming)
 
-- 设置入口：打开应用设置界面，选中`自定义节目单`项，点击后将弹出历史节目单列表
-- 具体功能请参照`多直播源`
+🖥 **服务器提供商**：
+- 🚀 IDC 服务器：[光秒云☁(原ZIC云数据)](https://idc.zicyun.cn)  
 
-### 当天节目单
 
-- 功能入口：打开应用选台界面，选中某一频道，按下菜单、帮助键、双击屏幕，将打开当天节目单
-- 须知：由于该应用不支持回放功能，所以更早的节目单没必要展示
+## 📋 免责声明
+本项目仅供 **技术交流与学习** 使用，请勿用于任何商业用途！  
+所有直播源均来自 **互联网**，版权归原作者所有。  
 
-### 频道收藏
+---
 
-- 功能入口：打开应用选台界面，选中某一频道，长按OK键、长按屏幕，将收藏/取消收藏该频道
-- 切换显示收藏列表：首先移动到频道列表顶部，然后再次按下方向键上，将切换显示收藏列表；手机长按频道信息切换
+## 🌟 支持我们
+如果您喜欢 **慕映直播**，欢迎通过以下方式支持我们：
+- ⭐ **给项目点个 Star**，让更多人看到！  
+- 💬 **提供建议 & 反馈**，帮助我们优化体验！  
+- 🤝 **参与开源贡献**，一起打造更好用的应用！  
 
-## 下载
+💖 **感谢您的支持！** 🚀  
 
-可以通过右侧release进行下载或拉取代码到本地进行编译
-
-## 说明
-
-- 主要解决 [my_tv](https://github.com/yaoxieyoulei/my_tv)（flutter）在低端设备上播放（4k）视频卡顿掉帧
-- 仅支持Android5及以上
-- 网络环境必须支持IPV6（默认直播源）
-- 只在自家电视上测过，其他电视稳定性未知
-
-## 功能
-
-- [x] 换台反转
-- [x] 数字选台
-- [x] 节目单
-- [x] 开机自启
-- [x] 自动更新
-- [x] 多直播源
-- [x] 多线路
-- [x] 自定义直播源
-- [x] 多节目单
-- [x] 自定义节目单
-- [x] 频道收藏
-- [x] 应用自定义设置
-
-## 更新日志
-
-[更新日志](./CHANGELOG.md)
-
-## 声明
-
-此项目（我的电视）是个人为了兴趣而开发, 仅用于学习和测试。 所用API皆从官方网站收集, 不提供任何破解内容。
-
-## 技术交流
-
-Telegram: https://t.me/mytv_android
-
-QQ群: 807328577
-
-## 赞赏
-
-<img src="./screenshots/mm_reward_qrcode.png" width="48%"/>
-
-## 致谢
-
-- [my-tv](https://github.com/lizongying/my-tv)
-- [参考设计稿](https://github.com/lizongying/my-tv/issues/594)
-- [IPV6直播源](https://github.com/zhumeng11/IPTV)
-- [live](https://github.com/fanmingming/live)
-- 等等
+## 📜 开源许可
+本项目基于 **MIT License** 开源，您可以自由使用、修改和分发，但请保留原始许可证信息。[查看 LICENSE](LICENSE)
