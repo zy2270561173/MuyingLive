@@ -23,7 +23,7 @@
 - **Automatic Daily Updates**, Say Goodbye to Invalid Sources 🔄  
 
 🎉 Download Link 1: [📥 Download Latest Version (GitHub Source)](https://github.com/zy2270561173/MuyingLive/releases/tag/15.2.3)
-<br>🔑 Download Link 2: [📥 Download Latest Version (Official CDN with High Speed)](https://web-pro2.123952.com/download-v2/?params=aHR0cHM6Ly9kb3dubG9hZC1jZG4uY2pqZDE5LmNvbS8xMjMtNjExLzk3MmQ3NGIxLzE4MTYwNzkzODEtMC85NzJkNzRiMWY1OTE1ZjRjYmE0N2FkMjJjM2ZjZTI2My9jLW03Nj92PTUmdD0xNzQxMTIxNTE1JnM9MTc0MTEyMTUxNWE0M2E4MDhkYjAzMDRhZTFiOGMzMTViMTg0MGY4N2E3JnI9RFpYUDIyJmJ6Yz0yJmJ6cz0zMTM4MzEzNjMwMzczOTMzMzgzMTNhMzkzODM5MzMzMTMyMzYzOTNhMzEzODM0MzUzNjMxMzEzNjNhMzAmZmlsZW5hbWU9JUU2JTg1JTk1JUU2JTk4JUEwJUU3JTlCJUI0JUU2JTkyJUFEXzE1LjIuMy5hcGsmeC1tZi1iaXotY2lkPWRjZjEzNjMwLWU4MjktNGMxNy04NjUwLTk4OWQ0OGVmYjY2NC1jNDkzN2MmY2FjaGVfdHlwZT0x&is_s3=0) | [🌐 Official Website](http://lc.pcwx.site)
+<br>🔑 Download Link 2: [📥 Download Latest Version (Official CDN with High Speed)](http://url.pcwx.site/1d286618)| [🌐 Official Website](http://lc.pcwx.site)
 
 
 ## 🎥 Streaming Experience
@@ -53,7 +53,7 @@
 
 ---
 
-📥 [Click Here to Download Now (Official CDN with High Speed)](https://web-pro2.123952.com/download-v2/?params=aHR0cHM6Ly9kb3dubG9hZC1jZG4uY2pqZDE5LmNvbS8xMjMtNjExLzk3MmQ3NGIxLzE4MTYwNzkzODEtMC85NzJkNzRiMWY1OTE1ZjRjYmE0N2FkMjJjM2ZjZTI2My9jLW03Nj92PTUmdD0xNzQxMTIxNTE1JnM9MTc0MTEyMTUxNWE0M2E4MDhkYjAzMDRhZTFiOGMzMTViMTg0MGY4N2E3JnI9RFpYUDIyJmJ6Yz0yJmJ6cz0zMTM4MzEzNjMwMzczOTMzMzgzMTNhMzkzODM5MzMzMTMyMzYzOTNhMzEzODM0MzUzNjMxMzEzNjNhMzAmZmlsZW5hbWU9JUU2JTg1JTk1JUU2JTk4JUEwJUU3JTlCJUI0JUU2JTkyJUFEXzE1LjIuMy5hcGsmeC1tZi1iaXotY2lkPWRjZjEzNjMwLWU4MjktNGMxNy04NjUwLTk4OWQ0OGVmYjY2NC1jNDkzN2MmY2FjaGVfdHlwZT0x&is_s3=0)
+📥 [Click Here to Download Now (Official CDN with High Speed)](http://url.pcwx.site/1d286618)
 ### 2️⃣ Installation Steps  
 1. Go to your device's **“Settings” > “Security”**, enable **“Install from Unknown Sources”**.  
 2. Download the APK file, and click to install.  
