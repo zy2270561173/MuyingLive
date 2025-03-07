@@ -24,7 +24,7 @@
 - **每日自动更新**，告别失效源 🔄  
 
 🎉 下载地址1：[📥 下载最新版本(GitHub源)](https://github.com/zy2270561173/MuyingLive/releases/tag/15.2.3)
-<br>🔑 下载地址2：[📥 下载最新版本(官网cdn已高速)](https://web-pro2.123952.com/download-v2/?params=aHR0cHM6Ly9kb3dubG9hZC1jZG4uY2pqZDE5LmNvbS8xMjMtNjExLzk3MmQ3NGIxLzE4MTYwNzkzODEtMC85NzJkNzRiMWY1OTE1ZjRjYmE0N2FkMjJjM2ZjZTI2My9jLW03Nj92PTUmdD0xNzQxMTIxNTE1JnM9MTc0MTEyMTUxNWE0M2E4MDhkYjAzMDRhZTFiOGMzMTViMTg0MGY4N2E3JnI9RFpYUDIyJmJ6Yz0yJmJ6cz0zMTM4MzEzNjMwMzczOTMzMzgzMTNhMzkzODM5MzMzMTMyMzYzOTNhMzEzODM0MzUzNjMxMzEzNjNhMzAmZmlsZW5hbWU9JUU2JTg1JTk1JUU2JTk4JUEwJUU3JTlCJUI0JUU2JTkyJUFEXzE1LjIuMy5hcGsmeC1tZi1iaXotY2lkPWRjZjEzNjMwLWU4MjktNGMxNy04NjUwLTk4OWQ0OGVmYjY2NC1jNDkzN2MmY2FjaGVfdHlwZT0x&is_s3=0]) | [🌐 官网](http://lc.pcwx.site)
+<br>🔑 下载地址2：[📥 下载最新版本(官网cdn已高速)](http://url.pcwx.site/1d286618) | [🌐 官网](http://lc.pcwx.site)
 
 
 ## 🎥 播放体验
@@ -54,7 +54,7 @@
 
 ---
 
-📥 [点击这里现在(官网cdn已高速)](https://web-pro2.123952.com/download-v2/?params=aHR0cHM6Ly9kb3dubG9hZC1jZG4uY2pqZDE5LmNvbS8xMjMtNjExLzk3MmQ3NGIxLzE4MTYwNzkzODEtMC85NzJkNzRiMWY1OTE1ZjRjYmE0N2FkMjJjM2ZjZTI2My9jLW03Nj92PTUmdD0xNzQxMTIxNTE1JnM9MTc0MTEyMTUxNWE0M2E4MDhkYjAzMDRhZTFiOGMzMTViMTg0MGY4N2E3JnI9RFpYUDIyJmJ6Yz0yJmJ6cz0zMTM4MzEzNjMwMzczOTMzMzgzMTNhMzkzODM5MzMzMTMyMzYzOTNhMzEzODM0MzUzNjMxMzEzNjNhMzAmZmlsZW5hbWU9JUU2JTg1JTk1JUU2JTk4JUEwJUU3JTlCJUI0JUU2JTkyJUFEXzE1LjIuMy5hcGsmeC1tZi1iaXotY2lkPWRjZjEzNjMwLWU4MjktNGMxNy04NjUwLTk4OWQ0OGVmYjY2NC1jNDkzN2MmY2FjaGVfdHlwZT0x&is_s3=0)
+📥 [点击这里现在(官网cdn已高速)](http://url.pcwx.site/1d286618)
 ### 2️⃣ 安装步骤  
 1. 打开设备的 **“设置” > “安全”**，启用 **“未知来源安装”**。  
 2. 下载 APK 文件，点击安装。  
